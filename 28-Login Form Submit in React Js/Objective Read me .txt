@@ -1,0 +1,4 @@
+form tag have some default action after clicking on submit button.
+if we want to change we have to use. event.preventDefault();
+
+form already have onSubmit() property.

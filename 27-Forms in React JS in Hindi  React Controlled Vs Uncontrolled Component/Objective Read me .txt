@@ -1,0 +1,7 @@
+// controlled element and uncontrolled
+// An input element whose value is controlled by React in this way is called "controlled componenet"
+
+in input field we have to know we we have typed. for that we have to use onChange=""
+whenevenr we type anything on event is occured. we can pass that event to see what changes are done.
+if we console the event we can see there lot of information if we check the event==>targer=>value
+we will see whatever we typed there.

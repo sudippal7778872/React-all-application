@@ -1,0 +1,6 @@
+now if we have multiple inputs in a form in that case will create seperate onChange event for each input?
+>> NO
+we will create a single event.
+let see how we can do it.
+
+we will use name attribute.

@@ -1,0 +1,3 @@
+Ternary Operator
+condition?statement for true:statement for false
+

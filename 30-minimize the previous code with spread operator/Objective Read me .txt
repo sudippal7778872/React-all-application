@@ -1,0 +1,13 @@
+now we will minimize our code:
+
+here we will use spread operator and object braket property.
+setValue((previousValue))
+--> here previous value contain the previous property. so we can use that use spread operator.
+--> then we will update the value with that property which name attribute is same with value. like below
+name:value ----it will create a new property if the name attribute value is not matching. here name is string to make name
+as variable we have to use object's braket propert.
+[name]:value  --- now the name is variable.
+
+---> match all the name attribute value with useState({})'s object's key. both will be same.
+
+ 

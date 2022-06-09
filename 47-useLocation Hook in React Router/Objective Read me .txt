@@ -1,0 +1,6 @@
+useLocation
+
+this hook is used to know about page path or location.
+
+in example we are try to show button if only user type my name (like "user/sudip/pal")
+else only welcome page dynamically.

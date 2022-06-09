@@ -1,0 +1,15 @@
+useParam
+
+this hook is used to route dynamically
+
+here we are trying to create dynamic root in user.
+
+http://localhost:3000/user/anything
+after "/user" if anyone type anything we will show a welcome page. with that anything.
+
+for example:
+1. if user type http://localhost:3000/user/suman
+==> wecome suman
+
+2. if user type http://localhost:3000/user/sudip
+==> wecome sudip

@@ -1,0 +1,14 @@
+useEffect 
+
+useEffect(() => {
+
+},[]
+)
+
+[] --mean only execute when first time render.
+else it will execute each change of useState and render.
+
+
+we can creat callback and into the defination of call back we call our function.
+
+and if we want to connect with any useState variable, for that write the use state variable in empty array. 

@@ -1,0 +1,7 @@
+route have two property 
+render and component
+<route path="" component={}>
+<route path="" render={}>
+
+we can create property and pass as props
+let see in example.

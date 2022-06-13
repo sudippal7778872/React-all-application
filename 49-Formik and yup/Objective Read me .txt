@@ -1,0 +1,11 @@
+Formik and yup
+
+yup library is use to validate the form.
+
+for formik we need three things 
+1. initial schema
+2. validation schema
+3. onSubmit function
+
+we can use input tag.
+we have to use <Field /> tag.
